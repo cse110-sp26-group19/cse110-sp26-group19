@@ -1,0 +1,71 @@
+# Team 19 Page
+## Members
+- Anand Baidya
+  - Major: Data Science & Math
+  - Hometown: Cupertino, CA
+  - Year: 3rd
+  - Contact: abaidya@ucsd.edu or abaidya (discord)
+  - [GitHub](https://www.github.com/Anand-Baidya)
+- Steven Nguyen
+  - Major: Computer Science
+  - Year: 4th
+  - Hometown: Los Angeles
+  - Contact: sdn002@ucsd.edu or stevennguyen (discord)
+  - GitHub: https://github.com/nguyensd0317/ 
+  - Likes league of legends, valorant, and ice cream
+- Anlisa Liu
+  - Hometown Bay Area,
+  - Major Math(Cs)
+  - Year: Junior
+  - Contact anl084@ucsd.edu or Instagram anlisaliu
+  - GitHub: anl084
+- Jennifer Forsyth
+  - Major: Computer Science
+  - Hometown: San Diego
+  - Year: 2nd
+  - GitHub: https://github.com/jurhnifer 
+  - Contact: jcforsyth@ucsd.edu
+  - Fun fact: I really really love the color pink
+- Tybalt Mallet
+  - Major: Computer Science
+  - Hometown: Grass, France
+  - Year: 3rd
+  - Github: https://github.com/notUnEeVeN
+  - Focusing on computer vision and it’s applications.
+- Omar Kurdi 
+  - Contact: Okurd@ucsd.edu
+  - GitHub: https://github.com/Omark4321 
+  - Major: Computer Science
+  - Year: Junior 
+  - Hometown: San Diego
+  - Likes Nature, Horses, and enjoys playing soccer
+- Abhay Korlapati
+  - Major:Computer Science
+  - Hometown:El Segundo,CA
+  - github page:https://abhay784.github.io/cse110lab1/ 
+  - playing soccer and my favorite team is barcelona
+- Miguel Lara Chavez
+  - Major: Computer Sciene
+  - Hometown: Soledad, CA
+  - Year: 3rd
+  - Github: https://github.com/Mig678
+  - Contact: Mlarachavez@ucsd.edu
+  - Fun fact: I like to play the accordion and guitar
+- Lorenzo Lemus, 
+  - 3rd year Computer Science
+  - Oxnard CA
+  - Contact: lolemus@ucsd.edu
+  - GitHub: https://github.com/Lorenz0L 
+  - Likes FOOD, video games, gym, sports
+- George Payba
+  - Year: 2nd Year 
+  - Major: Computer Science
+  - Hometown: Redlands, CA
+  - Github: https://github.com/kaffa101 
+  - Contact: gpayba@ucsd.edu
+  - Fun Fact: I like playing league, basketball, and going to cafes
+## Values
+- Clean, organized code
+- Clear communication
+- Quality over quantity
+- Collaboration/Equal distribution of work
