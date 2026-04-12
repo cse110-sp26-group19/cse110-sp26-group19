@@ -1,67 +1,73 @@
-# Team 19 Page
+# Team 19: Coding Wizards
+
+## Our Brand
+We are the Coding Wizards! 🧙 We are actively expanding our repertoire to master HTML, CSS, Javascript, and front-end design. 🪄 Our ultimate quest is to create responsive and user-centric web applications for everyone. 
+
 ## Members
-- Anand Baidya
-  - Major: Data Science & Math
+- Anand Baidya (Team Lead)
+  - Major: Data Science & Math-CS
   - Hometown: Cupertino, CA
+  - Year: 4th
+  - Contact: abaidya@ucsd.edu | Discord: abaidya_
+  - GitHub: [Anand-Baidya](https://www.github.com/Anand-Baidya)
+  - Likes spending time outdoors and Japanese cuisine
+- Tybalt Mallet (Team Lead)
+  - Major: Computer Science
+  - Hometown: Grass, France
   - Year: 3rd
-  - Contact: abaidya@ucsd.edu or abaidya (discord)
-  - [GitHub](https://www.github.com/Anand-Baidya)
+  - Github: [notUnEeVeN](https://github.com/notUnEeVeN)
+  - Focusing on computer vision and it’s applications.
 - Steven Nguyen
   - Major: Computer Science
-  - Year: 4th
   - Hometown: Los Angeles
-  - Contact: sdn002@ucsd.edu or stevennguyen (discord)
-  - GitHub: https://github.com/nguyensd0317/ 
+  - Year: 4th
+  - Contact: sdn002@ucsd.edu | Discord: stevennguyen
+  - GitHub: [nguyensd0317](https://github.com/nguyensd0317/) 
   - Likes league of legends, valorant, and ice cream
 - Anlisa Liu
-  - Hometown Bay Area,
-  - Major Math(Cs)
-  - Year: Junior
-  - Contact anl084@ucsd.edu or Instagram anlisaliu
-  - GitHub: anl084
+  - Hometown Bay Area, CA
+  - Major Math-CS 
+  - Year: 3rd
+  - Contact: anl084@ucsd.edu | Instagram: anlisaliu
+  - GitHub: [anl084](https://github.com/anl084)
 - Jennifer Forsyth
   - Major: Computer Science
   - Hometown: San Diego
   - Year: 2nd
-  - GitHub: https://github.com/jurhnifer 
+  - GitHub: [jurhnifer](https://github.com/jurhnifer)
   - Contact: jcforsyth@ucsd.edu
   - Fun fact: I really really love the color pink
-- Tybalt Mallet
-  - Major: Computer Science
-  - Hometown: Grass, France
-  - Year: 3rd
-  - Github: https://github.com/notUnEeVeN
-  - Focusing on computer vision and it’s applications.
 - Omar Kurdi 
-  - Contact: Okurd@ucsd.edu
-  - GitHub: https://github.com/Omark4321 
   - Major: Computer Science
-  - Year: Junior 
   - Hometown: San Diego
+  - Year: 3rd 
+  - Contact: Okurd@ucsd.edu
+  - GitHub: [Omark4321](https://github.com/Omark4321)
   - Likes Nature, Horses, and enjoys playing soccer
 - Abhay Korlapati
-  - Major:Computer Science
-  - Hometown:El Segundo,CA
-  - github page:https://abhay784.github.io/cse110lab1/ 
+  - Major: Computer Science
+  - Hometown: El Segundo, CA
+  - Github: [abhay784](https://github.com/abhay784)
   - playing soccer and my favorite team is barcelona
 - Miguel Lara Chavez
   - Major: Computer Sciene
   - Hometown: Soledad, CA
   - Year: 3rd
-  - Github: https://github.com/Mig678
+  - Github: [Mig678](https://github.com/Mig678)
   - Contact: Mlarachavez@ucsd.edu
   - Fun fact: I like to play the accordion and guitar
-- Lorenzo Lemus, 
-  - 3rd year Computer Science
-  - Oxnard CA
+- Lorenzo Lemus
+  - Major: Computer Science
+  - Hometown: Oxnard, CA
+  - Year: 3rd
   - Contact: lolemus@ucsd.edu
-  - GitHub: https://github.com/Lorenz0L 
+  - GitHub: [Lorenz0L](https://github.com/Lorenz0L)
   - Likes FOOD, video games, gym, sports
 - George Payba
-  - Year: 2nd Year 
   - Major: Computer Science
   - Hometown: Redlands, CA
-  - Github: https://github.com/kaffa101 
+  - Year: 2nd
+  - Github: [kaffa101](https://github.com/kaffa101)
   - Contact: gpayba@ucsd.edu
   - Fun Fact: I like playing league, basketball, and going to cafes
 ## Values
