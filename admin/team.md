@@ -40,9 +40,9 @@ We are the Coding Wizards! 🧙 We are actively expanding our repertoire to mast
 - Omar Kurdi 
   - Major: Computer Science
   - Hometown: San Diego
-  - Year: Junior 
+  - Year: 3rd 
   - Contact: Okurd@ucsd.edu
-  - GitHub: https://github.com/Omark4321 
+  - GitHub: [Omark4321](https://github.com/Omark4321)
   - Likes Nature, Horses, and enjoys playing soccer
 - Abhay Korlapati
   - Major: Computer Science
