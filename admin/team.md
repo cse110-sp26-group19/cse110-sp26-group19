@@ -70,6 +70,13 @@ We are the Coding Wizards! 🧙 We are actively expanding our repertoire to mast
   - Github: [kaffa101](https://github.com/kaffa101)
   - Contact: gpayba@ucsd.edu
   - Fun Fact: I like playing league, basketball, and going to cafes
+- Eric Tran
+  - Major: Computer Science
+  - Hometown: Oklahoma City, OK
+  - Year: 2nd
+  - Github: [Eric-Tran6](https://github.com/Eric-Tran6)
+  - Contact: ektran@ucsd.edu
+  - Fun Fact: I love the NBA and went to Game 7 of the NBA finals last year
 ## Values
 - Clean, organized code
 - Clear communication
